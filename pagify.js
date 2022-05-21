@@ -20,7 +20,7 @@
       'animationOutSpeed': 0,
       'onChange': function (page) {},
       'cache': false,
-      'basePagePath': 'http://localhost:8080/undangan'
+      'basePagePath': 'http://localhost:/undangan'
     };
     this.settings = $.extend({}, this.defaults, options);
 
